@@ -1,0 +1,5 @@
+{
+    "port": "COM6",
+    "board": "arduino:avr:uno",
+    "sketch": "color_mixing_lamp.ino"
+}
